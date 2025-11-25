@@ -1,0 +1,33 @@
+# --- Data Science Core ---
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+openpyxl
+missingno
+
+# --- Machine Learning ---
+torch
+keras
+tensorboard
+
+# --- Utils & Automation ---
+schedule
+requests
+tqdm
+pillow
+rich
+stack-data
+numbers_parser
+
+# --- Additional ---
+pyarrow
+geopandas
+shapely
+sqlalchemy
+loguru
+
+# --- System Specific ---
+pywin32; sys_platform == 'win32'
