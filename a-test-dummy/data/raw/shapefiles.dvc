@@ -1,0 +1,6 @@
+outs:
+- md5: b1fba8b96df67c8babc714ab0ff5440f.dir
+  size: 5016118
+  nfiles: 30
+  hash: md5
+  path: shapefiles

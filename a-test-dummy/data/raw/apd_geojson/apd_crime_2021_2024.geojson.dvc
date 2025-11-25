@@ -1,0 +1,5 @@
+outs:
+- md5: 2291e462c0a338593de33080573be317
+  size: 69820678
+  hash: md5
+  path: apd_crime_2021_2024.geojson
